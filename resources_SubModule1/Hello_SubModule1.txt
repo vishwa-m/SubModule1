@@ -1,3 +1,4 @@
 Hello.. I am in SubModule1
 Update1: Modified locally
-Updated: Modified vias Github
+1. Modified via Github
+2. Modified via Github
